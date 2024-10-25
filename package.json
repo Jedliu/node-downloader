@@ -1,0 +1,15 @@
+{
+    "name": "node-downloader",
+    "version": "1.0.0",
+    "description": "",
+    "main": "download.js",
+    "scripts": {
+        "download": "node download.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cli-color": "^2.0.4"
+    }
+}
